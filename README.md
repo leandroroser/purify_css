@@ -3,7 +3,7 @@
 
 Remove unused rules of a css file, for a set of css selectors stored in a file or a character vector.
 
-To obtain the unused rules, A possible approach is:
+To obtain the unused rules, a possible approach is:
 
 - Go to google Chrome, Open Properties > Tools > Developer Tools
 
