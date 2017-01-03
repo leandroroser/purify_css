@@ -34,6 +34,6 @@ purify_css("/directory_with_files/my_css.css", "/directory_with_files/unused_rul
 
 The clean file, having the same name of your css file followed by the suffix "out.css", will be created in the directory
 
---------o---------
+--------o----------
 
 
