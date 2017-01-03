@@ -9,7 +9,7 @@ To obtain the unused rules, a possible approach is:
 
 - Click on the Audits tab within the Developer Tools window
 
-- Ensure the Web Page Performance option is checked.
+- Ensure the Web Page Performance option is checked
 
 - Click Run
 
