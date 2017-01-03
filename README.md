@@ -29,7 +29,7 @@ With the sample files my_css.css and unused-rules.txt, type in R:
 purify_css("/directory_with_files/my_css.css", "/directory_with_files/unused_rules_file")
 
 
-The clean file called as your file and with a suffix "out.css", will be created in the directory
+The clean file, having the same name of your css file followed by the suffix "out.css", will be created in the directory
 
 
 
