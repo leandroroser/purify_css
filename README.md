@@ -20,8 +20,8 @@ To obtain the unused rules, this is a possible approach:
 - **Now run this tool**:
 
 
-*purift_css(css_file, unused_rules_file)*
-</br>
+##**purift_css(css_file, unused_rules_file)**
+</br> </br>
 
 With the sample files my_css.css and unused-rules.txt, type in R:
 
