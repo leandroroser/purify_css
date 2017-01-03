@@ -1,2 +1,34 @@
 # purify_css
-remove the unused rules of a css file
+
+Remove unused rules of a css file, for a set of rules to remove stored in a file or a character vector.
+
+To obtain the unused rules, this is a possible approach:
+
+- Go to google Chrome, Open Properties > Tools > Developer Tools
+
+- Click on the Audits tab within the Developer Tools window
+
+- Ensure the Web Page Performance option is checked.
+
+- Click Run
+
+- Copy into a txt file the unused css rules that the audit tool returns 
+
+
+
+- Now run this tool:
+
+
+*purift_css(css_file, unused_rules_file)*
+
+
+With the sample files my_css.css and unused-rules.txt, type in R:
+
+
+purify_css("/directory_with_files/my_css.css", "/directory_with_files/unused_rules_file")
+
+
+The clean file called as your file and with a suffix "out.css", will be created in the directory
+
+
+
