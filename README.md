@@ -1,9 +1,9 @@
 # purify_css
 
 
-Remove unused rules of a css file, for a set of rules to remove stored in a file or a character vector.
+Remove unused rules of a css file, for a set of css selectors stored in a file or a character vector.
 
-To obtain the unused rules, this is a possible approach:
+To obtain the unused rules, A possible approach is:
 
 - Go to google Chrome, Open Properties > Tools > Developer Tools
 
