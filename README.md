@@ -1,5 +1,6 @@
 # purify_css
 
+
 Remove unused rules of a css file, for a set of rules to remove stored in a file or a character vector.
 
 To obtain the unused rules, this is a possible approach:
@@ -14,13 +15,13 @@ To obtain the unused rules, this is a possible approach:
 
 - Copy into a txt file the unused css rules that the audit tool returns 
 
+</br> </br>
 
-
-- Now run this tool:
+- **Now run this tool**:
 
 
 *purift_css(css_file, unused_rules_file)*
-
+</br>
 
 With the sample files my_css.css and unused-rules.txt, type in R:
 
